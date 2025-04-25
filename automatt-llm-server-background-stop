@@ -1,0 +1,6 @@
+#!/bin/bash
+
+kill `ps ax | grep automatt-llm-server | grep -v stop | grep -v automatt-llm-server-background | grep bash | awk {'print $1'}` 2> /dev/null
+kill `ps ax | grep automatt-llm-server | grep -v stop | grep -v automatt-llm-server-background | grep python | awk {'print $1'}`  2> /dev/null
+rm -f ./logs/pid.log
+exit 0

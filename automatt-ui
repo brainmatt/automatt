@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#source automatt-apl-key.env
+python automatt-ui.py

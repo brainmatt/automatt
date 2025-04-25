@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./automatt-llm-server-background-stop
+screen -dmS automatt ./automatt-llm-server
+echo $! > ./logs/pid.log

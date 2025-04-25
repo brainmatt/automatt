@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ps ax | grep automatt | grep -v automatt-check-server | grep -v grep

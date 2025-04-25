@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkdir -p tasks
+> tasks/task.json
+python automatt-llm-server.py

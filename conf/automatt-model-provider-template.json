@@ -1,0 +1,11 @@
+{
+  "model_provider": [
+      {
+        "name": "google",
+        "full_name": "Google",
+        "model_name": "gemini-2.0-flash",
+        "base_url": ""
+      }
+    ]
+}
+

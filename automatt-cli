@@ -1,0 +1,6 @@
+#!/bin/bash
+
+AUTOMATT_MODEL_CMDLINE_ARGS=$@
+python automatt-cli.py $AUTOMATT_MODEL_CMDLINE_ARGS
+
+
