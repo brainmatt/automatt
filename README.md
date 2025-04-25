@@ -23,7 +23,7 @@ AutoMatt - an AI/LLM Browser Automation Agent (UI&amp;CLI) to automate every web
 
 <h5>Why it is named 'AutoMatt'?</h5>
 So, my name is 'Matt' and I love automation because I am lazy as hell ...eh, I meant 'efficient' of course.
-After seeing my work results for some while my boss gave me the nickname 'AutoMatt' and I lik it a lot. Thanks!
+After seeing my work results for some while my boss gave me the nickname 'AutoMatt' and I like it a lot. Thanks!
 
 So I dedicated this little project to my favourite nickname.
 
