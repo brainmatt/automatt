@@ -1,5 +1,5 @@
 # AutoMatt
-AutoMatt - an AI/LLM Browser Automation Agent (UI&amp;CLI) to automate every web based workflow.  
+AutoMatt - an AI/LLM Browser Automation Agent (UI&amp;CLI) to easily automate every web based workflow.  
 
 ![AutoMatt UI screenshot](https://github.com/brainmatt/automatt/blob/main/automatt-ui.png)
 
