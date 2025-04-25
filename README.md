@@ -25,4 +25,5 @@ After seeing my work results for some while my boss gave me the nickname 'AutoMa
 
 So I dedicated this little project to my favourite nickname.
 
-
+<h5>Thanks</h5>
+Many thanks and appreciation to the 'browser use' team! Keep up the great work!
