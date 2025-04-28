@@ -333,6 +333,8 @@ hooks_in_dir_arr = []
 hooks_in_dir_arr.append("None")
 hooks_in_dir = os.listdir('./hooks')
 for h in hooks_in_dir:
+    if h == ".gitignore":
+        continue
     if h == "__init__.py":
         continue
     if h == "__pycache__":
